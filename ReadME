@@ -1,0 +1,14 @@
+
+Make sure to have AR_database folder in the same directory. 
+
+like this,
+".../AR_Database_cropped"
+".../my_mfiles"
+
+The instructions are mentioned in the m-file itself. Hope it is self explanatory. 
+
+For Visualization and Reconstruction, 
+plz, run one at a time (either p-dimension or PCA or ICA...). You can run all at a time, but it will really hard to keep track of images. So as mentioned, Uncomment and commment accordingly before each run. Sorry that I made them in a single program.
+One more thing, I did not have enough time for making the label for each image. If the user didnot uncomment or comment properly, might endup in getting numerous images without label. So, try to check aprpox range of figure numbers (For that reason, I picked figure# with wide gap, to make it easy to compare).
+
+Hope the code runs smoothly! 
